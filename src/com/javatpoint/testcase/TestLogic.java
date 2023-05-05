@@ -12,3 +12,4 @@ public class TestLogic {
 		//assertEquals(-2,Calculation.findMax(new int[]{-12,-3,-4,-2}));
 	}
 }
+
